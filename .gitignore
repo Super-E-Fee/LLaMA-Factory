@@ -1,4 +1,6 @@
 models*
+.gradio*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -8,6 +10,11 @@ __pycache__/
 # C extensions
 *.so
 
+*.gz
+*.json
+*.yaml
+*.jsonl
+*.csv
 # Distribution / packaging
 .Python
 build/
